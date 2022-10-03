@@ -8,9 +8,9 @@ public class eg1 {
             int m= sc.nextInt();
             a[i]=m;
         }
-        for (int i:a)
+        for (int x:a)
         {
-            System.out.println(i);
+            System.out.println(x);
         }
     }
 }
