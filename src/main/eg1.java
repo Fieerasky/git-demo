@@ -6,7 +6,7 @@ public class eg1 {
         int n=sc.nextInt();
         for (int i = 0; i <n ; i++) {
             int m= sc.nextInt();
-            a[i]=m;
+            a[i]=m+1;
         }
         for (int x:a)
         {
